@@ -1,0 +1,29 @@
+{
+  "name": "fight-matrix",
+  "version": "0.0.1",
+  "description": "Crawls and parses FightMatrix.com",
+  "main": "./lib/fight-matrix",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valish/fight-matrix-api.git"
+  },
+  "keywords": [
+    "mma",
+    "api",
+    "fightmatrix",
+    "crawler"
+  ],
+  "author": "= <=>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valish/fight-matrix-api/issues"
+  },
+  "homepage": "https://github.com/valish/fight-matrix-api",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "request": "^2.53.0"
+  }
+}
